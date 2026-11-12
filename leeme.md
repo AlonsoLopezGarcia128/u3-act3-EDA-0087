@@ -7,6 +7,9 @@
 > **🐍 Lenguaje:** Python  
 > **🛠️ Herramientas:** Visual Studio Code, Pandas, Matplotlib y CSV  
 
+## Empleados de industria 
+![alt text](empleados_industria.png) 
+
 ## TABLA ORIGINAL DE EMPLEADOS
 ![alt text](Tabla_Original.png)
 
@@ -15,3 +18,38 @@
 
 ## Datos del CSV --> Base de datos
 ![alt text](Datos_CSV.png)
+
+## 8. Leer los datos desde el archivo CSV
+![alt text](Datos_leidos.png)
+
+##  9. Análisis Exploratorio de Datos (EDA)
+
+### 5. Primeros y últimos registros
+![alt text](primeros_ultimos.png)
+
+### 6. Dimensiones y estructura
+![alt text](Estructura.png)
+
+### 7. Estadísticas y limpieza
+![alt text](Limpieza.png)
+
+### 8. Análisis específico | 9. Ordenamiento, filtrado y agrupación
+![alt text](image.png)
+
+## 18. Gráfica de barras: Empleados por departamento
+![alt text](image-1.png)
+
+## 19. Gráfica de barras: Salarios por empleado
+![alt text](image-2.png)
+
+## 20. Histograma: Distribución de edades
+![alt text](image-3.png)
+
+## 21. Gráfica de dispersión: Edad vs Salario
+![alt text](image-4.png)
+
+## 22. Diagrama de caja: Distribución de salarios
+![alt text](image-5.png)
+
+## 23. Matriz de correlación
+![alt text](image-6.png)
